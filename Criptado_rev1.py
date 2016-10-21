@@ -72,7 +72,9 @@ print('\n Texto a cifrar: \n', texto)
 if len(texto.split())> 1:
     print('\n Texto cifrado: \n', desplaza_palabras(texto_cifrado,parametro))
 else:
-    print('\n Texto cifrado: \n', texto_cifrado)   
+    print('\n Texto cifrado: \n', texto_cifrado) 
+    
+# Clase EOI    
 
  
 
